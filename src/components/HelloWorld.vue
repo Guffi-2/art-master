@@ -15,7 +15,7 @@
       <input
         type="submit"
         value="Регистрация"
-        onclick="location.href='https://apple.com/'"
+        onclick="location.reload(); return false;"
       />
     </div>
   </div>
